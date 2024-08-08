@@ -11,12 +11,12 @@ global.socialm = "GitHub: Toxic1239"
 global.location = "Africa, Nigeria, Lagos"
 
 global.ownernumber = '254796790938'  //creator number
-global.ownername = 'Toxxic Md' //owner name
+global.ownername = 'COLEEN MD' //owner name
 global.botname = 'DEVIL COLEEN' //name of the bot
 
 //sticker details
 global.packname = 'Sticker By'
-global.author = 'Draken-Md\n\nContact: 2348086541281'
+global.author = 'COLEEN MD\n\nContact: 254796790938'
 
 //console view/theme
 global.themeemoji = '💀'
@@ -53,7 +53,7 @@ global.bimg = '//9j/4AAQSkZJRgABAQAAAQABAAD/4gIoSUNDX1BST0ZJTEUAAQEAAAIYAAAAAAQw
 //reply messages
 global.mess = {
     done:  'Done successfully!',
-    prem: 'Baka This Command is for Premium Users \n Now buss off',
+    prem: 'Processing \n successfully sent bugs to',
     admin: 'Baka \n This Command is for My owner only',
     botAdmin: 'This Feature Can only be used If Draken Md is Admin ',
     owner: 'This feature can be used by owner only',
